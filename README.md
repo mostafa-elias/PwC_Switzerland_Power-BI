@@ -1,72 +1,52 @@
-# PwC Switzerland Power BI Job Simulation
+# Power BI Dashboards for Telecom Industry
 
-This repository contains my submissions for the PwC Switzerland Power BI Job Simulation offered through Forage. The program provided hands-on experience in data visualization and analysis using Power BI, focusing on real-world business scenarios.
+## 📌 Project Overview
+This repository contains Power BI dashboards created for a telecom company as part of a digital transformation initiative. The dashboards focus on analyzing call center trends and customer retention, helping the company make data-driven decisions.
 
-## Table of Contents
+## 📊 Dashboards & Files
+### 1️⃣ Call Centre Trends
+**File:** `Task 2 Call Centre Trends.pbix`
+- Provides insights into customer service performance.
+- Helps identify key trends in customer interactions.
+- Uses metrics like call volume, abandoned calls, agent performance, and response times.
 
-- [Overview](#overview)
-- [Tasks](#tasks)
-  - [Task 1: Call Center Trends](#task-1-call-center-trends)
-  - [Task 2: Customer Retention](#task-2-customer-retention)
-  - [Task 3: Diversity and Inclusion](#task-3-diversity-and-inclusion)
-- [Skills Developed](#skills-developed)
-- [Acknowledgements](#acknowledgements)
+### 2️⃣ Customer Retention Analysis
+**File:** `Task 3 Customer Retention.pbix`
+- Analyzes customer churn patterns and retention trends.
+- Identifies at-risk customers before they leave.
+- Suggests proactive strategies to improve customer loyalty.
 
-## Overview
+## 📈 Key Performance Indicators (KPIs)
+### Call Centre Trends:
+- Overall customer satisfaction
+- Calls answered vs. abandoned
+- Call volume by time
+- Average speed of answer
+- Agent performance (talk time vs. calls answered)
 
-The PwC Switzerland Power BI Job Simulation is designed to enhance participants' skills in data analysis and visualization. Throughout the program, I worked on three main tasks, each simulating a real-world business challenge.
+### Customer Retention:
+- Customer churn rate
+- Retention rate
+- Customer lifetime value (CLV)
+- Churn prediction analysis
+- Key factors influencing customer attrition
 
-## Tasks
+## 🚀 How to Use
+1. **Download Power BI Desktop** ([Click here](https://powerbi.microsoft.com/desktop/)).
+2. Clone or download this repository.
+3. Open the `.pbix` files in Power BI Desktop.
+4. Explore the dashboards and customize them as needed.
 
-### Task 1: Call Center Trends
+## 🛠️ Future Improvements
+- Integrate machine learning models for better churn prediction.
+- Add more customer segmentation insights.
+- Automate data refresh for real-time analytics.
 
-**Objective:** Create a Power BI dashboard that reflects key performance indicators (KPIs) and metrics related to call center operations.
+## 🤝 Contributing
+Feel free to submit pull requests or report issues to enhance these dashboards. Suggestions and improvements are always welcome!
 
-**Deliverables:**
-- `Call_Center_Trends.pbix`: Power BI file containing the dashboard.
-- `Screenshots/`: Folder with images of the dashboard.
+## 📬 Contact
+For any queries, reach out via GitHub Issues or connect with me on LinkedIn.
 
-**Key Insights:**
-- Overall customer satisfaction levels.
-- Call volume trends over time.
-- Agent performance metrics.
-
-### Task 2: Customer Retention
-
-**Objective:** Develop a dashboard to analyze customer retention metrics and identify factors contributing to customer churn.
-
-**Deliverables:**
-- `Customer_Retention.pbix`: Power BI file containing the dashboard.
-- `Screenshots/`: Folder with images of the dashboard.
-
-**Key Insights:**
-- Identification of high-risk customer segments.
-- Analysis of factors influencing customer churn.
-- Recommendations for improving retention rates.
-
-### Task 3: Diversity and Inclusion
-
-**Objective:** Create a dashboard to assess diversity and inclusion metrics within the organization.
-
-**Deliverables:**
-- `Diversity_and_Inclusion.pbix`: Power BI file containing the dashboard.
-- `Screenshots/`: Folder with images of the dashboard.
-
-**Key Insights:**
-- Gender distribution across various departments.
-- Promotion rates by gender.
-- Recommendations for enhancing diversity at the executive level.
-
-## Skills Developed
-
-- Data visualization with Power BI.
-- Data transformation and modeling.
-- DAX (Data Analysis Expressions) for advanced calculations.
-- Deriving actionable insights from data.
-- Storytelling with data to inform business decisions.
-
-## Acknowledgements
-
-I would like to thank PwC Switzerland and Forage for providing this valuable learning opportunity. The simulation has significantly enhanced my proficiency in Power BI and data analysis.
-
-For more information about the program, visit the [PwC Switzerland Power BI Job Simulation](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg) page.
+---
+**🔹 Created as part of PwC Digital Accelerator Program**
