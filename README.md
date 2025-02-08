@@ -1,4 +1,4 @@
-# Power BI Dashboards for Telecom Industry
+# PwC Switzerland Power BI Job Simulation
 
 ## 📌 Project Overview
 This repository contains Power BI dashboards created for a telecom company as part of a digital transformation initiative. The dashboards focus on analyzing call center trends and customer retention, helping the company make data-driven decisions.
